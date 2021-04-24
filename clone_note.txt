@@ -1,0 +1,6 @@
+I just created Empty Remote repository from GitHUb.com by clicking on the plus icon on top right corner 
+
+
+And cloned this repository by clicking on Set up in Desktop
+
+It cloned 
